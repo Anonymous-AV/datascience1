@@ -1,2 +1,2 @@
 # datascience1
-medical prediction
+medical pred.
